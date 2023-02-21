@@ -15,12 +15,10 @@
 -------------------------------------------------------
 #### **Original**
 
-**Developed By:** Nursyahrina
-**Published @:** [https://codeastro.com/laundry-management-system-in-php-codeigniter-with-source-code/]
+**Developed By:** Herdiyan Adam Putra
+
 
 -------------------------------------------------------
-#### **Customized**
-**Customized By:** oretnom23
-**Published @:** [https://sourcecodester.com/php-ci-laundry-management-system-source-code/]
+
 
 -------------------------------------------------------
